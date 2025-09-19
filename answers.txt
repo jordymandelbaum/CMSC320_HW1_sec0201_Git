@@ -15,4 +15,7 @@ Answer: Merging is taking a branch and combining it with the main branch. It tak
 the rebased branch overwrites the main branch. Instead of having to make sure that they do not conflict, the rebasing overwrites the previous history. 
 
 
+Q4: What are you looking forward to this semester?
 
+Answer: I am looking forward to learning how to deal with large datasets. I think that this skill will go well with my goal of becoming a consultant. I will have to be able to sort through data and this
+class will really help me with that while also teaching me essential SQL and python skills. 
