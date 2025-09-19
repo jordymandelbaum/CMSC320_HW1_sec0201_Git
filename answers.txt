@@ -3,3 +3,8 @@ Q1: Why might we consider using Git?
 Answer: You can switch branches in Git so that you test things out. If one thing doesn't work and it has a risk of messing up a lot of your project, then it is a safe way to experiment.
 Also, it is good for collaboration. 
 
+Q2: What field could data science be applied to? Give an Example.
+
+Answer: Data science could be applied to finance as a field. In the field of finance, you deal with a lot of large datasets and huge tables of data, such as income sheets. Data science could be applied here to 
+clean up the data, interperet it, and make it easier to use for the client. For example, in a consulting job, you may be looking at a company's balance sheet. You could use data science to provide simple
+reasons why that company is losing money based off the balance sheet. 
