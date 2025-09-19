@@ -1,0 +1,5 @@
+Q1: Why might we consider using Git?
+
+Answer: You can switch branches in Git so that you test things out. If one thing doesn't work and it has a risk of messing up a lot of your project, then it is a safe way to experiment.
+Also, it is good for collaboration. 
+
